@@ -430,4 +430,40 @@
     <string name="opened_in_background_message">Nova aba aberta em segundo plano</string>
     <string name="bookmark_added">Favorito adicionado</string>
     <string name="allow_website_to_open_app_message">Permitir que o site abra %1$s?</string>
+    <string name="width">Largura</string>
+    <string name="height">Altura</string>
+    <string name="corner_radius">Cantos redondos</string>
+    <string name="adaptive">Adaptativo</string>
+    <string name="action_favorites">Favoritos</string>
+    <string name="skin_search_bar">Barra de pesquisa</string>
+    <string name="stroke_width">Largura da borda</string>
+    <string name="stroke_opacity">Opacidade da borda</string>
+    <string name="opacity">Opacidade</string>
+    <string name="disable_website_icons">Desativer o ícone dos sites</string>
+    <string name="disable_icon_color">Desativar a cor dos ícones</string>
+    <string name="font_style">Estilo da fonte</string>
+    <string name="bold">Negrito</string>
+    <string name="italics">Itálico</string>
+    <string name="clear_website_icon_cache">Limpar o cache de ícone do website</string>
+    <string name="clear_website_icon_cache_message">Observe que isso vai deletar todos os ícones dos seus sites favoritos na tela inicial. Cada ícone será baixado novamente na próxima vez que você visitar o site correspondente.</string>
+    <string name="use_blur_instead_of_transparency">Usar desfoque no lugar da transparência</string>
+    <string name="desc_favorite_icon">Ícone de um favorito</string>
+    <string name="script_remarks">Observações</string>
+    <string name="action_save">Salvar</string>
+    <string name="reset_to_default_settings">Voltar com as configurações originais</string>
+    <string name="script_sites">Sites (tipo *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">O script entrará em vigor automaticamente quando o site carregar.
+    \n\nSites(obrigatório): O site com o script suporta o \"*\" curinga, e vários sites estão separados por \",\", por exemplo: *.foo.com,bar.*/list.
+    \n\nObservações(Opcional): Usado como título do display.
+    \n\nCódigo(obrigatório): Recomenda-se o uso de JavaScript nativo. Você também pode usar a sintaxe jquery ou vue.js se o site usar essas estruturas.</string>
+    <string name="save_data">Economizar os dados</string>
+    <string name="save_data_description">Ative o modo de economia de dados em sites compatíveis</string>
+    <string name="use_line_style_search_box">Usar barra de pesquisa com uma linha</string>
+    <string name="toast_script_added">Scritp adicionado com sucesso</string>
+    <string name="action_manage_favorites">Gerenciador favorito</string>
+    <string name="check_for_updates">Checar por atualizações</string>
+    <string name="checking_for_updates">Checando por atualizações</string>
+    <string name="latest_version_already_installed">A última versão já está instalada</string>
+    <string name="new_version_available">Nova versão disponível</string>
+    <string name="action_download_file">Baixá-la</string>
 </resources>
